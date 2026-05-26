@@ -1,0 +1,14 @@
+Package: MixTwice
+Type: Package
+Title: Large-Scale Hypothesis Testing by Variance Mixing
+Version: 3.0
+Imports: Iso, stats, nloptr
+Date: 2026-04-21
+Author: Zihao Zheng, Zitong Qi, and Michael A. Newton
+Maintainer: Zihao Zheng <zihao.zheng@wisc.edu>
+Description: Implements large-scale hypothesis testing by variance mixing. It takes two statistics per testing unit -- an estimated effect and its associated squared standard error -- and fits a nonparametric, shape-constrained mixture separately on two latent parameters. It reports local false discovery rates (lfdr) and local false sign rates (lfsr). Manuscript describing algorithm of MixTwice: Zheng et al(2021) <doi:10.1093/bioinformatics/btab162>.
+License: GPL-2
+Encoding: UTF-8
+NeedsCompilation: no
+Depends: R (>= 3.5.0)
+RoxygenNote: 7.3.3

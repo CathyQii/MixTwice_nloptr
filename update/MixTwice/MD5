@@ -1,0 +1,9 @@
+022098afd8e5ad5164aade921a6dcf04 *DESCRIPTION
+a5ee16b6e1d405d44310eb10a9090b5f *NAMESPACE
+b73d335d5ee81a9461c6df3092f10df7 *R/mixtwice.R
+a3a603f13500d436f0294abf93fd89e2 *build/partial.rdb
+280c0e0a0e807e1d7ad3f2dfe658a1cd *data/datalist
+4199e2bf89bc7e98afcacc00ce7d9caf *data/peptide_data.rda
+8ddd5a3ab1e2b84542dbca559047e0e1 *man/MixTwice-package.Rd
+e4f6713f7190ae451fc7e13b4eeb447b *man/mixtwice.Rd
+dde7ac69b8eae236112d3628ef532c00 *man/peptide_data.Rd
